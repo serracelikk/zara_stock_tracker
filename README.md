@@ -22,6 +22,9 @@ A desktop interface is also included for managing the tracking process.
 - Periodic background checking
 
 ## Application Interface
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/52b8062b-a5a1-4c92-b49d-133ae35806c4" width="450">
+</p>
 
 
 ## Technologies
