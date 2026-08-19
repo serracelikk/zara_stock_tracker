@@ -1,0 +1,6 @@
+.env
+zara_data.json
+__pycache__/
+.DS_Store
+.venv/
+venv/
